@@ -1,0 +1,3 @@
+[submodule "FrameLib"]
+	path = FrameLib
+	url = https://github.com/AlexHarker/FrameLib.git
